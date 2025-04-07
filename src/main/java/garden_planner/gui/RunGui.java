@@ -14,7 +14,7 @@ public class RunGui {
         * (3) Create a subfolder cache
         * (4) Enable the next statement and update the folder name from UFOLDER to your username
         **/
-        //System.setProperty("javafx.cachedir", "C:\\Scratch\\UFOLDER\\.openjfx\\cache");
+        System.setProperty("javafx.cachedir", "C:\\Scratch\\pc044FOLDER\\.openjfx\\cache");
 
         GuiMain.main(args);
     }
